@@ -83,7 +83,7 @@ If you use The Engine in academic work, please cite the associated paper:
 
 You may also cite the dataset directly:
 
-**David, E. L. (2026).** *The Engine: Data Breach Analysis Workbook (v1.0).* GitHub Repository. `https://github.com/your‑repo‑link` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fyour%25E2%2580%2591repo%25E2%2580%2591link")
+**David, E. L. (2026).** *The Engine: Data Breach Analysis Workbook (v1.0).* GitHub Repository. [`https://github.com/your‑repo‑link` [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fyour%25E2%2580%2591repo%25E2%2580%2591link")](https://github.com/DrEricLynnDavid/Company-Breaches-and-Compliance-Analysis/tree/main)
 
 ---
 
